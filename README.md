@@ -24,7 +24,7 @@
 ## Структура проекта
 
 ```
-gsrv2gsrv/
+GeoserverClone/
 ├── index.html                    # Входная HTML-файл
 ├── package.json                  # Зависимости и скрипты
 ├── tsconfig.json                 # Конфигурация TypeScript
@@ -114,7 +114,7 @@ App
 1. Перейдите в директорию проекта:
 
 ```bash
-cd gsrv2gsrv
+cd GeoserverClone
 ```
 
 2. Установите зависимости:
